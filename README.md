@@ -8,12 +8,12 @@
 
 
 ## guideline 
----
+
 
 `django-admin startproject django_project`
 
 rename the django_project to backend
-~~~~
+
 ### package management for python
 ``pipenv shell``
 
