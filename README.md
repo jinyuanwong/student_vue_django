@@ -1,4 +1,4 @@
-App - student (vue + django) guideline 
+# App - student (vue + django) 
 
 1. To launch django backend, run
 `python .\manage.py runserver`
@@ -7,12 +7,13 @@ App - student (vue + django) guideline
 `npm run serve`
 
 
-
+## guideline 
+---
 
 `django-admin startproject django_project`
 
 rename the django_project to backend
-
+~~~~
 ### package management for python
 ``pipenv shell``
 
