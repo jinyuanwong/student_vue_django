@@ -1,8 +1,9 @@
 App - student (vue + django) guideline 
 
-To launch django backend, run
+1. To launch django backend, run
 `python .\manage.py runserver`
-To launch vue frontend, run
+
+2. To launch vue frontend, run
 `npm run serve`
 
 
